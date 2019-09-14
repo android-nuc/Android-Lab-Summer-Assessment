@@ -1,7 +1,5 @@
 # Android-Assessment-Works
 
-***
-
 Android实验室成员暑假考核作品集和
 
 A collection of homeworks of members.
